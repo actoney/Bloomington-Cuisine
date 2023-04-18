@@ -6,7 +6,7 @@ permalink: /about/
 
 Description of Project:
 
-	For this project, we took inspiration from the diversity aspect of this course and look at the variety of cuisine located in Bloomington. Specifically, we explored the connections that people have to these restaurants. We hoped to portray the impact that these restaurants have had on their patrons through conducting short interviews. With these interviews, we learned about how these restaurants have impacted people in Bloomington. Maybe someone had their first date with their significant other at this establishment or celebrated their new job. These memories will connect with the establishment as well as the dishes they serve. We want to explore this human connection in our digital exhibition.  
+	For this project, we took inspiration from the diversity aspect of this course and looked at the array of diverse cuisine located in Bloomington. Over the course of the semester, we examined the connections students have to these restaurants and how the presence of these restaurants on campus has influenced their cultural experiences at college. In this digital exhibition, we hope to convey the impact these restaurants have had on their patrons through conducting short interviews. With these interviews, we hope to learn about how these restaurants have impacted people in Bloomington. These memories will connect with the establishment as well as the dishes they serve. Looking at how people interact with these restaurants and the memories they have formed there will provide a better understanding of how having a wide offering of international cuisines can impact people on an individual and community level. 
 
 Significance of Project:
 
