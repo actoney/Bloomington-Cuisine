@@ -67,11 +67,11 @@ collections:
     output: true
   Cuisine: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'cuisine_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'cuisine.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/cuisine' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -88,12 +88,11 @@ search:
       qatar:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
-          - label
+          - resturant
           - _date
-          - object_type
-          - current_location
+          - cuisine
+          - location
+          - responses
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
