@@ -1,8 +1,8 @@
 ---
 layout: page
-show_title: false
+show_title: true
 banner:
-  collection: cuisine
+  collection: Bloomington Cuisine
   pid: obj99
   y: 25%
   height: '500px'
