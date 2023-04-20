@@ -93,6 +93,7 @@ search:
           - cuisine
           - location
           - responses
+          - website
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
