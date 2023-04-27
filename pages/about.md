@@ -15,7 +15,3 @@ Significance of Project:
 Description of images for the project:
 
 	For this project, we collected images of the individuals we interviewed in the restaurants. With permission from the individual we have interviewed, of course. Additional images of the restaurants as well as the cuisine they serve, may be included in order to give a holistic view of this individual's experience. Depending on the individual and their story, more images may be necessary to portray it in an accurate manner visually.  The goal was to have a collection of images from each establishment that tell a story of the elements that have impacted the individual we interviewed the most. 
-
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
