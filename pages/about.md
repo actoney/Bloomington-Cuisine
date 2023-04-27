@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Our Project?
+title: The Influence of Cultural Cuisine in Bloomington
 permalink: /about/
 ---
 
