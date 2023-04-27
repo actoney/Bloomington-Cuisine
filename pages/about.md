@@ -18,4 +18,4 @@ Significance of Project:
 
 Description of images for the project:
 
-	For this project, we collected images of the individuals we interviewed in the restaurants. With permission from the individual we have interviewed, of course. Additional images of the restaurants as well as the cuisine they serve, may be included in order to give a holistic view of this individual's experience. Depending on the individual and their story, more images may be necessary to portray it in an accurate manner visually.  The goal was to have a collection of images from each establishment that tell a story of the elements that have impacted IU studentes the most. 
+	Throughout this semester, our group visited eight local, cultural restaurants. At each location, we photographed the exterior and interior of the restaurant. Additionally, we interviewed numerous IU students when eating at these restaurants. With their permission, we photographed and included photos of our interviewees in our project to portray the students whose lives had been positively influenced by these restaurants on campus.  
