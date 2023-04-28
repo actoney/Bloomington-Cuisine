@@ -8,10 +8,9 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
-
-### add your own paragraph
+Between January and April 2023, we visited eight local restaurants in Bloomington, IN. 
+At each location, we photographed the exterior and interior of the restaurant and interviewed numerous IU students patrons of these restaurants. With their permission, we photographed and included photos of our interviewees in our project to portray the students whose lives had been positively influenced by these restaurants around town.
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='cuisine' %}
+{% include collection_gallery.html facet_by='cuisine' collection='cuisine' %}
