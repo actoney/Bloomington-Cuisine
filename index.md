@@ -3,7 +3,7 @@ layout: page
 show_title: true
 banner:
   collection: Bloomington Cuisine
-  pid: obj99
+  pid: obj9
   y: 25%
   height: '500px'
 ---
