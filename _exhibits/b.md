@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Our Questionaire'
+title: 'Our Questionnaire'
 author: Rose Nicholson
 publish_date: 2023-02-14
 permalink: /exhibits/b/
