@@ -112,9 +112,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Story A'
+      - label: 'Our Method'
         link: '/exhibits/a/'
-      - label: 'Story B'
+      - label: 'Our Story'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
