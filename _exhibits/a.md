@@ -9,6 +9,7 @@ permalink: /exhibits/a/
 CMLT-151 Intro to Pop Culture Final Project Collaboration Memo
 
 Group Members: Rose Nicholson and Austin Toney
+
 **Week 4** 
 January 31st 
 On this day, our team discussed what ideas we were considering for our proposal and how we would divide the workload of the project – we agreed it would be a good idea to all go to restaurants together, and we would all try to take photos of the restaurants visited. 
